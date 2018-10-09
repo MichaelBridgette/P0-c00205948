@@ -1,4 +1,6 @@
 /*! collatz v0.0.0 - MIT license */
+// fix-issue
+
 'use strict';
 
 var collatz = function (x) {
